@@ -1,4 +1,4 @@
-Cleaning data collected from the accelerometers from the Samsung Galaxy S smartphone 
+Cleaning data collected from the accelerometers from smartphone 
 ===========================================================================================
 
 This work is made for the final project of the Getting and Cleaning Data course on Coursera.com webpage.
